@@ -132,5 +132,3 @@ If this project resonates with you or you want to talk about model strategy, ML 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/yourusername)
 
 ---
-
-*Built with curiosity, coffee, and a healthy skepticism of unnecessary complexity ☕*
